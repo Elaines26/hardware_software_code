@@ -7,4 +7,6 @@ def main() :
     print("great! you said " + answer + "?")
     print("lets's start learning some python today")
 
-if __name__ == "__main__":
+if __name__ == "__main__" :
+    main()
+    
